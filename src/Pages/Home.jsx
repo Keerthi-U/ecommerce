@@ -1,5 +1,5 @@
 import React from "react";
-import neam from '../assets/product/neam.webp';
+
 
 
 const Home = () => {
@@ -19,7 +19,7 @@ Feel the difference with turmeric, oils, and herbs that soothe and protect every
         </div>
         <div className=" p-4 space-x-4 bg-neutral rounded-box ">
        
-            <img src={neam} class="rounded-box h-full w-80 object-cover">
+            <img src="/product/neam.webp" class="rounded-box h-full w-80 object-cover">
             </img>
             
         </div>
