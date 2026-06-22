@@ -1,8 +1,14 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 
 
 const Home = () => {
+  const navigate = useNavigate();
+
+  const goToProduct = () => {
+    navigate("/product");
+  };
   return (
     <section className="hm-con align-element py-20">
       <div className=" grid lg:grid-cols-2 gap-24 items-center">
@@ -15,7 +21,9 @@ const Home = () => {
 Free from harmful chemicals, they promote natural beauty and long-term skin health.
 Feel the difference with turmeric, oils, and herbs that soothe and protect every day
           </p>
-          <div class="mt-10"><a class="btn  pro" href="/product">Our Products</a></div>
+         <button className=" mt-5 btn pro" onClick={goToProduct}>
+              Our Products
+            </button>
         </div>
         <div className=" p-4 space-x-4 bg-neutral rounded-box ">
        
