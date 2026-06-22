@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Neem & Tulsi Herbal Soap",
+    "category": "Bath & Body",
+    "subcategory": "Soaps",
+    "price": 120,
+    "image": "../src/assets/product/neam.webp",
+  
+    "description": "Handmade soap with antibacterial neem & tulsi.Handmade soap with antibacterial neem & tulsiHandmade soap with antibacterial neem & tulsi"
+  },
+  {
+    "id": 2,
+    "name": "Rose Body Scrub",
+    "category": "Bath & Body",
+    "subcategory": "Body Scrubs",
+    "price": 180,
+    "image": "../src/assets/product/rose.webp",
+    "description": "Exfoliates dead skin and gives a fresh glow."
+  },
+  {
+    "id": 3,
+    "name": "Aloe Vera Face Pack",
+    "category": "Face Care",
+    "subcategory": "Face Packs",
+    "price": 200,
+    "image": "../src/assets/product/4xvic_512.webp",
+    "description": "Soothes and hydrates skin with pure aloe vera."
+  },
+  {
+    "id": 4,
+    "name": "Lavender Herbal Hair Oil",
+    "category": "Hair Care",
+    "subcategory": "Oils",
+    "price": 350,
+    "image": "../src/assets/product/iol.webp",
+    "description": "Strengthens hair roots and promotes growth with lavender."
+  },
+  {
+    "id": 5,
+    "name": "Sandalwood Face Pack",
+    "category": "Face Care",
+    "subcategory": "Face Packs",
+    "price": 220,
+    "image": "../src/assets/product/rose.webp",
+    "description": "Brightens complexion with natural sandalwood powder."
+  },
+  {
+    "id": 6,
+    "name": "Honey & Turmeric Soap",
+    "category": "Bath & Body",
+    "subcategory": "Soaps",
+    "price": 140,
+    "image": "../src/assets/product/rose.webp",
+    "description": "Gentle cleansing soap with antibacterial honey and turmeric."
+  },
+  {
+    "id": 7,
+    "name": "Coffee Body Scrub",
+    "category": "Bath & Body",
+    "subcategory": "Body Scrubs",
+    "price": 190,
+    "image": "../src/assets/product/rose.webp",
+    "description": "Energizes skin and removes dead cells with coffee grounds."
+  },
+  {
+    "id": 8,
+    "name": "Herbal Neem Face Pack",
+    "category": "Face Care",
+    "subcategory": "Face Packs",
+    "price": 210,
+    "image": "../src/assets/product/rose.webp",
+    "description": "Clears acne and refreshes skin with neem extract."
+  },
+  {
+    "id": 9,
+    "name": "Coconut Hair Oil",
+    "category": "Hair Care",
+    "subcategory": "Oils",
+    "price": 320,
+    "image": "../src/assets/product/rose.webp",
+    "description": "Deeply nourishes hair and prevents dryness."
+  },
+  {
+    "id": 10,
+    "name": "Lemon & Mint Soap",
+    "category": "Bath & Body",
+    "subcategory": "Soaps",
+    "price": 130,
+    "image": "../src/assets/product/rose.webp",
+    "description": "Refreshing soap with lemon zest and mint essence."
+  }
+ 
+]
